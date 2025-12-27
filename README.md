@@ -45,6 +45,7 @@ Scores are predicted **separately** for home and away teams to improve accuracy.
 
 ## 🏗 System Architecture
 
+```
 Data Source
 ↓
 Data Ingestion
@@ -58,7 +59,7 @@ Evaluation & Backtesting
 REST API (FastAPI)
 ↓
 Client / Frontend
-
+```
 
 ---
 
